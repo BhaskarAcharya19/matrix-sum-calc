@@ -1,0 +1,4 @@
+To run this code you first need to pull this repo by doing git clone into your local. You must have java 1.8 or higher as your language level. 
+Having an IDE is preferred but you can run this code through terminal. 
+To run in ide just select the Main.java and run it using the run command. 
+
