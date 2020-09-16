@@ -1,4 +1,5 @@
 To run this code you first need to pull this repo by doing git clone into your local. You must have java 1.8 or higher version. 
+Unzip folder in your local.
 Open intellij IDE and go to file in intellij and open folder(name of foler is matrix-sum-calc).
 Select main directory and open com.matrix.calc package.
 Open Main.java class.
