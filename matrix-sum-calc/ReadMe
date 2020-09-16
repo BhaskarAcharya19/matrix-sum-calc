@@ -2,7 +2,7 @@ To run this code you first need to pull this repo by doing git clone into your l
 Open intellij IDE and go to file in intellij and open folder(name of foler is matrix-sum-calc).
 Select main directory and open com.matrix.calc package.
 Open Main.java class.
-Right click on Main.java class and run 'Main.main()'.
+Right click on Main.java class and run 'Main.main()' and you will see an answer.
 
 
 
